@@ -10,11 +10,11 @@ The requiring environment is as bellow:
 
 3.torch                     1.10.0+cu113
 
-5.scikit-learn              1.0.1
+4.scikit-learn              1.0.1
 
-6.scikit-opt                0.6.6
+5.scikit-opt                0.6.6
 
-7.transformers              2.1.1
+6.transformers              2.1.1
 ## Instructions
 run model.py
 #### Details  
